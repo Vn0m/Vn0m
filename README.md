@@ -1,8 +1,6 @@
 🏃 I'm interested on web development
 
-🔭 I just finished CS50x 
-
-🌱 I’m currently learning javascript, algorithms and more...
+🌱 I’m currently learning javascript, python and more...
 
 🔥 I’m looking to collaborate on future projects...
 
