@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Apolo</h1>
 <h3 align="center">A fullstack developer from the US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vn0m" alt="vn0m" /></a> </p>
 
 - 🔭 I’m currently working on **a few personal projects**
 
