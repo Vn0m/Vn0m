@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Apolo</h1>
+<h1 align="center">Hi 👋, I'm Juan </h1>
 <h3 align="center">A fullstack developer from the US</h3>
 
 
