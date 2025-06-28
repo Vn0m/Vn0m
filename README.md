@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A fullstack developer from New york</h3>
 
-- 🔭 I’m currently working on **a few personal projects and freelancing**
+- 🔭 I’m currently working on **a personal projects and freelancing**
 
-- 🌱 I’m currently learning **Javascript, Python, Java, C++ and more...**
+- 🌱 I’m currently learning **Typescript, Python, Java and more...**
 
 - 📫 How to reach me **vnom. on discord**
 
-- ⚡ I’m looking to collaborate **on future projects realted to Web development**
+- ⚡ I’m looking to collaborate **on future projects realted to Web development and AI/ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
