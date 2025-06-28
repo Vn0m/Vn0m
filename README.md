@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vnom. on discord**
 
-- ⚡ I’m looking to collaborate **on future projects realted to Web development and AI/ML**
+- ⚡ I’m looking to collaborate **on future projects related to Web development and AI/ML**
 ###
 
 <div align="center">
