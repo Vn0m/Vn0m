@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋! My name is Juan and I'm a computer science student at Hunter College!</h2>
 
-- 🔭 I’m currently working on **a few personal projects and freelancing**More actions
+- 🔭 I’m currently working on **a few personal projects and freelancing**
 
 - 🌱 I’m currently learning **Typescript, Python, Java and more...**
 
 - 📫 How to reach me **vnom. on discord**
 
-- ⚡ I’m looking to collaborate **on future projects realted to Web development**
+- ⚡ I’m looking to collaborate **on future projects realted to Web development and AI/ML**
 ###
 
 <div align="center">
