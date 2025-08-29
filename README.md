@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **a few personal projects and freelancing**
 
-- 🌱 I’m currently learning **Typescript, Python, Java and more...**
+- 🌱 I’m currently learning **C++, Typescript, Python, Java and more...**
 
 - 📫 How to reach me **vnom. on discord**
 
