@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **a few personal projects and freelancing**
 
-- 🌱 I’m currently learning **Typescript, Python, Java and more...**
+- 🌱 I’m currently learning **C++, Python, Java and more...**
 
 - 📫 How to reach me **vnom. on discord**
 
-- ⚡ I’m looking to collaborate **on future projects related to Fullstack and AI/ML**
+- ⚡ I’m looking to collaborate **on future projects related to Fullstack**
 ###
 
 <div align="center">
