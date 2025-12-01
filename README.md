@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vnom. on discord**
 
-- ⚡ I’m looking to collaborate **on future projects related to Fullstack**
+- ⚡ I’m looking to collaborate **on projects related to Fullstack**
 ###
 
 <div align="center">
