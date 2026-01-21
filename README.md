@@ -34,6 +34,5 @@
 
 ### Connect
 
-- LinkedIn: <a href="https://linkedin.com/in/juan-apolo-swe" target="_blank">juan-apolo-swe</a>
-- LeetCode: <a href="https://leetcode.com/u/vnom" target="_blank">leetcode.com/u/vnom</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Apolo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-apolo-swe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vnom-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vnom)
