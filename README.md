@@ -13,26 +13,19 @@
 
 ---
 
-### Programming Languages & Tools
+## Programming Languages & Tools
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,spring,git,linux,docker,mongodb,postgres,bash" />
+  </a>
+</p>
 
 ---
 <img align="right" height="160" src="https://cdn.shopify.com/s/files/1/0633/5417/5743/files/ZP8y4Kw_480x480.gif?v=1696043095" />
 
 ### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Apolo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-apolo-swe)
-[![LeetCode](https://img.shields.io/badge/LeetCode-vnom-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vnom)
+<p align="left">
+  <a href="https://linkedin.com/in/juan-apolo-swe" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vnom" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" /></a>
+</p>
