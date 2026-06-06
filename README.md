@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Juan Apolo and I'm a Computer Science student at Hunter College</h2>
+<h2 align="left">Hi! 👋 I'm Juan Apolo and I'm a Computer Science and Stats student at Hunter College</h2>
 
 ---
 
